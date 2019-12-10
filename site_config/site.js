@@ -2,8 +2,8 @@
 export default {
   rootPath: '/', // 发布到服务器的根目录，需以/开头但不能有尾/，如果只有/，请填写空字符串
   port: 8080, // 本地开发服务器的启动端口
-  domain: 'apistarter.cn', // 站点部署域名，无需协议和path等
-  defaultLanguage: 'en-us',
+  domain: 'github.com/moranyyg/ApiStarterDcos/', // 站点部署域名，无需协议和path等
+  defaultLanguage: 'zh-cn',
   'en-us': {
     pageMenu: [{
         key: 'home', // 用作顶部菜单的选中
