@@ -1,0 +1,9 @@
+{
+  "filename": "welcome.md",
+  "__html": "<h1>欢迎使用ApiStarter</h1>\n<p>你好   欢迎使用ApiStarter</p>\n",
+  "link": "\\zh-cn\\blog\\welcome.html",
+  "meta": {
+    "key1": "Api",
+    "key2": "ApiStarter"
+  }
+}

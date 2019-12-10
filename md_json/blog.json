@@ -1,0 +1,22 @@
+{
+  "en-us": [
+    {
+      "filename": "welcome.md",
+      "link": "\\en-us\\blog\\welcome.html",
+      "meta": {
+        "key1": "Api",
+        "key2": "ApiStarter"
+      }
+    }
+  ],
+  "zh-cn": [
+    {
+      "filename": "welcome.md",
+      "link": "\\zh-cn\\blog\\welcome.html",
+      "meta": {
+        "key1": "Api",
+        "key2": "ApiStarter"
+      }
+    }
+  ]
+}

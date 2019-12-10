@@ -1,0 +1,24 @@
+pages:
+ # key is the dirname of pages in src/pages
+ home:
+  # 首页配置
+  zh-cn:
+   title: 'ApiStarter'
+   keywords: 'ApiStarter，Api,Starter'
+   description: '一款基于SpringBoot的Api服务器&基于Vue的后台管理系统 脚手架,风格简洁,简单实用'
+  # home config
+  en-us:
+   title: 'ApiStarter'
+   keywords: 'ApiStarter，Api,Starter'
+   description: 'An API server based on spring boot & the scaffolding of the background management system based on Vue, simple and practical'
+ blog:
+  # 博客列表页配置
+  zh-cn:
+   title: 'ApiStarter博客'
+   keywords: 'ApiStarter，Api,Starter'
+   description: 'ApiStarter站内博客'
+  en-us:
+   # blog list page config
+   title: 'ApiStarter Blog'
+   keywords: 'ApiStarter，Api,Starter'
+   description: 'Station Blog'
